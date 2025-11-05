@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**decoolesabri/decoolesabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Sabri!
 
-Here are some ideas to get you started:
+I'm a passionate **web developer** with a strong focus on building clean, functional, and user-friendly applications.
+I enjoy working with **PHP**, **JavaScript**, and modern **web frameworks**, and I’m always learning new tools and technologies to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 What I’m currently up to
+- Learning more about **JavaScript** and more **advanced PHP**
+- Exploring **Flask** and **MongoDB**
+- Working on personal projects to sharpen my full-stack skills
+
+### ⚙️ Tech Stack
+- **Languages:** HTML, CSS, PHP, JavaScript, some experience in Java and Python
+- **Databases:** MySQL
