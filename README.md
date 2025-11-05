@@ -1,5 +1,3 @@
-# About me
-
 # 👋 Hi there, I'm Sabri!
 
 I'm a passionate **web developer** with a strong focus on building clean, functional, and user-friendly applications.
