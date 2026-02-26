@@ -4,10 +4,9 @@ I'm a passionate **web developer** with a strong focus on building clean, functi
 I enjoy working with **PHP**, **JavaScript**, and modern **web frameworks**, and I’m always learning new tools and technologies to improve my skills.
 
 ### 💡 What I’m currently up to
-- Learning more about **JavaScript** and more **advanced PHP**
-- Exploring **Flask** and **MongoDB**
-- Working on personal projects to sharpen my full-stack skills
+- Learning more about **JavaScript**, **React** and more **advanced PHP**
+- Working on personal projects to sharpen my skills
 
 ### ⚙️ Tech Stack
 - **Languages:** HTML, CSS, PHP, JavaScript, some experience in Java and Python
-- **Databases:** MySQL
+- **Databases:** MySQL, Firebase
